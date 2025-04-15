@@ -1,8 +1,4 @@
 # CF-04-Instacart
-Project File - CareerFoundry Data Analytics Course
-
-Excel | Python
-
 
 ## Overview
 An online grocery store that connects with customers through a mobile app aims to refine its marketing strategy. By deepening their understanding into the different kinds of customers they have and how their order behaviour differ, they aim to leverage data driven insights to inform a more targeted marketing strategy.
