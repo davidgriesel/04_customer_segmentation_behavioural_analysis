@@ -33,7 +33,7 @@ An online grocery store that engages with customers through a mobile app is look
 
 ## Data Used
 
-This analysis uses publicly available data originally sourced from [**Instacart**](https://www.instacart.com) via [**Kaggle**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis). The links as well as an additional customers dataset was provided by [**CareerFoundry**](https://careerfoundry.com/en/courses/become-a-data-analyst/) as part of their Data Analytics Course.
+This analysis uses publicly available data originally sourced from **Instacart** via [**Kaggle**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis). The links as well as an additional customers dataset was provided by [**CareerFoundry**](https://careerfoundry.com/en/courses/become-a-data-analyst/) as part of their Data Analytics Course.
 
 - [**Customers**](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) - Customer ID, Name, Surname, Gender, State, Age, Date Joined, Dependants, Family Status, and Income
 - [**Instacart Dataset**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
@@ -47,7 +47,7 @@ The Instacart Dataset was accessed on 7 October 2024.
 
 ## Deliverables
 
-- [**Excel Workbook (Report)**](https://github.com/davidgriesel/04-customer-segmentation-behavioural-analysis/tree/main/deliverables)
+- **Excel Workbook (Report)**
 - [**Detailled Case Study**](https://davidgriesel.com/online-grocery-store/)
 
 
