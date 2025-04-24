@@ -5,7 +5,7 @@
 
 ## Overview
 
-An online grocery store that engages with customers through a mobile app is looking to refine its marketing strategy using data-driven insights. This project explores customer demographics and transactional behaviour to identify distinct customer segments and inform targeted product placement and personalised marketing efforts.
+An online grocery store that engages with customers through a mobile app is looking to refine its marketing strategy using data-driven insights. This project uses Python to explore customer demographics and transactional behaviour to identify distinct customer segments and inform targeted product placement and personalised marketing efforts.
 
 
 ## Key Questions
@@ -28,7 +28,7 @@ An online grocery store that engages with customers through a mobile app is look
 - Script Writing
 - Data Wrangling | Merging | Subsetting | Grouping | Aggregating | Deriving new Variables
 - Descriptive Statistics | Segmentation & Profiling | Trend Analysis
-- Deriving Insights | Data Visualisation | Reporting
+- Deriving Insights | Visualisation | Reporting
 
 
 ## Data Used
@@ -38,16 +38,16 @@ This analysis uses publicly available data originally sourced from [**Instacart*
 - [**Customers**](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) - Customer ID, Name, Surname, Gender, State, Age, Date Joined, Dependants, Family Status, and Income
 - [**Instacart Dataset**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 
-    - **Departments** - Department ID and Name
-    - **OrdersProducts** - Order ID, Product ID, Add to Cart Order, and Reorder Indicator.
-    - **Orders** - Order ID, Order Number, Order Day of Week, Order Hour of Day, Days Since Prior Order.
-    - **Products** - product ID, Name, Aisle, Department, and Price.
+    - **Departments** - Department id and name
+    - **OrdersProducts** - Order id, product id, add to cart order, and reorder indicator.
+    - **Orders** - Order is, order number, order day of week, order hour of day, days since prior order.
+    - **Products** - Product id, name, aisle, department, and price.
 
 The Instacart Dataset was accessed on 7 October 2024.
 
 ## Deliverables
 
-- [**Excel Reporting Workbook**](https://github.com/davidgriesel/04-customer-segmentation-behavioural-analysis/tree/main/deliverables)
+- [**Excel Workbook (Report)**](https://github.com/davidgriesel/04-customer-segmentation-behavioural-analysis/tree/main/deliverables)
 - [**Detailled Case Study**](https://davidgriesel.com/online-grocery-store/)
 
 
