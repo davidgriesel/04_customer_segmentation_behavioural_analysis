@@ -25,10 +25,10 @@ An online grocery store that engages with customers through a mobile app is look
 
 ## Skills Demonstrated
 
+- Script Writing
 - Data Wrangling | Merging | Subsetting | Grouping | Aggregating | Deriving new Variables
 - Descriptive Statistics | Segmentation & Profiling | Trend Analysis
 - Deriving Insights | Data Visualisation | Reporting
-- Script Writing | Data Structure Documentation
 
 
 ## Data Used
