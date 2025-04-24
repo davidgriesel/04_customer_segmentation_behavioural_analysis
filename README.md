@@ -69,5 +69,5 @@ This project is licensed under the MIT License.
 ```text
 ├── deliverables/         # Reporting Workbook
 ├── notebooks/            # Python Notebooks
-├── LICENSE               # Project License (MIT)
+├── LICENSE               # Project License
 └── README.md             # Project Overview
