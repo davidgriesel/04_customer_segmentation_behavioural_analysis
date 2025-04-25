@@ -9,6 +9,7 @@ An online grocery store that engages with customers through a mobile app is look
 
 
 ## Key Questions
+
 1. How does order volume fluctuate over time?
 2. How does average spending per product vary over time?
 3. How can products be categorised into price ranges to support product placement?
@@ -47,6 +48,7 @@ This analysis uses publicly available data originally sourced from **Instacart**
 
 The Instacart Dataset was accessed on 7 September 2024.
 
+
 ## Deliverables
 
 - **Excel Report** *(link to be added)*
@@ -63,6 +65,7 @@ The Instacart Dataset was accessed on 7 September 2024.
 
 
 ## License
+
 This project is licensed under the MIT License.
 
 
