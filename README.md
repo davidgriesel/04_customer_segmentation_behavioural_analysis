@@ -21,8 +21,8 @@ An online grocery store that engages with customers through a mobile app is look
 ## Tools Used 
 
 - **Python** (Jupyter | Anaconda) - Scripting Environment
-- **pandas, numpy, os** - Data Processing
-- **matplotlib, seaborn** - Plotting | Visualisation
+- **pandas | numpy | os** - Data Processing
+- **matplotlib | seaborn** - Plotting | Visualisation
 - **Excel** - Reporting
 
 
@@ -34,12 +34,12 @@ An online grocery store that engages with customers through a mobile app is look
 - Visualisation | Communicating Insights | Reporting
 
 
-## Data Used
+## Data Sourced
 
 This analysis uses publicly available data originally sourced from **Instacart** via **Kaggle**. The links as well as an additional customers dataset was provided by **CareerFoundry** as part of their Data Analytics Course.
 
 - [**Customers**](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) - Customer ID, Name, Surname, Gender, State, Age, Date Joined, Dependants, Family Status, and Income
-- [**Instacart Dataset**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
+- [**Dataset**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 
     - **Departments** - Department id and name
     - **OrdersProducts** - Order id, product id, add to cart order, and reorder indicator.
