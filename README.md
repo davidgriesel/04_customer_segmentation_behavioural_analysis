@@ -49,7 +49,7 @@ The Instacart Dataset was accessed on 7 September 2024.
 
 ## Deliverables
 
-- **Excel Report**
+- **Excel Report** *(link to be added)*
 - [**Detailled Case Study**](https://davidgriesel.com/online-grocery-store/)
 
 
