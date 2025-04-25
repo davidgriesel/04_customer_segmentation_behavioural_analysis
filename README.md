@@ -19,16 +19,18 @@ An online grocery store that engages with customers through a mobile app is look
 
 ## Tools Used 
 
-- **Python** - Data Preparation | Visualisation | Analysis
+- **Python** (Jupyter | Anaconda) - Scripting Environment
+- **pandas, numpy, os** - Data Processing
+- **matplotlib, seaborn** - Plotting | Visualisation
 - **Excel** - Reporting
 
 
 ## Skills Demonstrated
 
 - Script Writing
-- Data Wrangling | Merging | Subsetting | Grouping | Aggregating | Deriving new Variables
+- Exploratory Analysis | Data Wrangling | Merging | Subsetting | Grouping | Aggregating | Deriving new Variables
 - Descriptive Statistics | Segmentation & Profiling | Trend Analysis
-- Deriving Insights | Visualisation | Reporting
+- Visualisation | Communicating Insights | Reporting
 
 
 ## Data Used
