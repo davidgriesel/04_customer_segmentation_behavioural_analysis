@@ -45,7 +45,7 @@ This analysis uses publicly available data originally sourced from **Instacart**
     - **Orders** - Order is, order number, order day of week, order hour of day, days since prior order.
     - **Products** - Product id, name, aisle, department, and price.
 
-The Instacart Dataset was accessed on 7 October 2024.
+The Instacart Dataset was accessed on 7 September 2024.
 
 ## Deliverables
 
