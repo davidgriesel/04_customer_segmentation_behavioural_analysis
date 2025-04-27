@@ -64,7 +64,7 @@ The Instacart Dataset was accessed on 7 September 2024.
 **Way Forward** - Building a Tableau storyboard to present key findings in an interactive format could enhance storytelling and enable stakeholders to explore trends, segments, and behaviours through dynamic dashboards and filters.-->
 
 
-## License
+<!--## License-->
 
 This project is licensed under the MIT License.
 
