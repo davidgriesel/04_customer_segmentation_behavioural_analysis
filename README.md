@@ -1,10 +1,8 @@
 # Customer Segmentation & Behavioural Analysis
-
 *This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
 
 ## Overview
-
 An online grocery store that engages with customers through a mobile app is looking to refine its marketing strategy using data-driven insights. This project uses Python to explore customer demographics and transactional behaviour to identify distinct customer segments and inform targeted product placement and personalised marketing efforts.
 
 
@@ -19,19 +17,16 @@ An online grocery store that engages with customers through a mobile app is look
 
 
 ## Tools
-
 - **Python** (Jupyter | Anaconda) - Scripting Environment
 - **pandas | numpy | os** - Data Processing
 - **matplotlib | seaborn** - Plotting | Visualisation
-- **Excel** - Reporting
+<!--- **Excel** - Reporting-->
 
 
 ## Process
-
-<!--- Script Writing-->
 - Exploratory Analysis | Data Wrangling | Merging | Subsetting | Grouping | Aggregating | Deriving new Variables
 - Descriptive Statistics | Segmentation & Profiling | Trend Analysis
-- Visualisation | Communicating Insights | Reporting
+- Visualisation | Reporting
 
 
 ## Data
