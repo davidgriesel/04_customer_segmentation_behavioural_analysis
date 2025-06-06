@@ -2,7 +2,7 @@
 *This project was completed as part of the [CareerFoundry Data Analytics Programme](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
 ## Overview
-An online grocery store that engages with customers through a mobile app is looking to refine its marketing strategy using data-driven insights. This project uses Python to explore customer demographics and transactional behaviour to identify distinct customer segments and create spending profiles to inform targeted product placement and personalised marketing efforts.
+An online grocery store that engages with customers through a mobile app is looking to refine its marketing strategy using data-driven insights. This project uses Python to explore customer demographics and transactional behaviour to identify customer segments and create spending profiles to inform targeted product placement and personalised marketing efforts.
 
 ## Tools
 - **Python** (Jupyter | Anaconda) - Scripting Environment
