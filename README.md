@@ -11,9 +11,9 @@ An online grocery store that engages with customers through a mobile app is look
 <!--- **Excel** - Reporting-->
 
 ## Process
-- Exploratory Analysis | Data Wrangling | Merging | Subsetting | Grouping | Aggregating | Deriving new Variables
-- Descriptive Statistics | Segmentation & Profiling | Trend Analysis
-- Visualisation | Reporting
+- **Data Preparation** - Exploratory Analysis | Data Wrangling | Merging | Subsetting | Grouping | Aggregating | Deriving new Variables
+- **Analysis** - Descriptive Statistics | Segmentation & Profiling | Trend Analysis
+- **Communication** - Visualisation | Reporting
 
 ## Data
 This analysis uses publicly available data originally sourced from **Instacart** via **Kaggle**. The links as well as an additional customers dataset was provided by **CareerFoundry** as part of their Data Analytics Course.
