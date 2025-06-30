@@ -28,7 +28,7 @@ This analysis uses publicly available data originally sourced from **Instacart**
 
 The Instacart Dataset was accessed on 7 September 2024.
 
-<!--## Links
+<!--## Deliverables
 - **Excel Report**
 - [**Detailled Case Study**](https://davidgriesel.com/online-grocery-store/)
 
