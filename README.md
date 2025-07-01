@@ -11,8 +11,8 @@ An online grocery store that engages with customers through a mobile app is look
 <!--- **Excel** - Reporting-->
 
 ## Process
-- **Data Preparation** - Exploratory Analysis | Data Wrangling | Merging | Subsetting | Grouping | Aggregating | Deriving new Variables
-- **Analysis** - Descriptive Statistics | Segmentation & Profiling | Trend Analysis
+- **Data Preparation** - Wrangling | Merging | Subsetting | Grouping | Aggregation | Deriving new Variables
+- **Analysis** - Exploratory Analysis | Descriptive Statistics | Segmentation & Profiling | Trend Analysis
 - **Communication** - Visualisation | Reporting
 
 ## Data
