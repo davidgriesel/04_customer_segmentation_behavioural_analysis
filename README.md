@@ -57,6 +57,31 @@ The Instacart Dataset was accessed on 7 September 2024.
     </tr>
 </table>
 
+### 2. How does average spending per product vary over time?
+
+<table>
+    <tr>
+        <td align="center" valign="top" width="50%">
+            <img src="visualisations/spending/3.1_avg_price_dow.png" ><br>
+            <em>Annotation.</em>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <img src="visualisations/spending/3.2_avg_price_hod.png" ><br>
+          <em>Annotation.</em>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" width="50%">
+            <img src="visualisations/spending/3.5_avg_price_todow_heat.png" ><br>
+            <em>Annotation.</em>
+        </td>
+        <td align="center" valign="top" width="50%">
+            <img src="visualisations/spending/3.6_avg_price_todow.png" ><br>
+            <em>Annotation.</em>
+        </td>
+    </tr>
+</table>
+
 
 ## Takeaways
 ### Successes
