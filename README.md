@@ -35,14 +35,27 @@ The Instacart Dataset was accessed on 7 September 2024.
 ### 1. How does order volume fluctuate over time?
 
 <table>
-<tr>
-<td align="center" valign="top" width="100%">
-    <img src="visualisations/bar_top_films.png"" ><br>
-    <em>Table Annotation.</em>
-</td>
-</tr>
+    <tr>
+        <td align="center" valign="top" width="50%">
+            <img src="visualisations/orders/3.1_orders_dow.png" ><br>
+            <em>Annotation.</em>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <img src="visualisations/orders/3.2_orders_hod.png" ><br>
+          <em>Annotation.</em>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" width="50%">
+            <img src="visualisations/orders/3.4_orders_hodow_heat.png" ><br>
+            <em>Annotation.</em>
+        </td>
+        <td align="center" valign="top" width="50%">
+            <img src="visualisations/orders/3.5_orders_hodow.png" ><br>
+            <em>Annotation.</em>
+        </td>
+    </tr>
 </table>
-<br>
 
 
 ## Takeaways
