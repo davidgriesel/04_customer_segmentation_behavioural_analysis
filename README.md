@@ -82,6 +82,17 @@ The Instacart Dataset was accessed on 7 September 2024.
     </tr>
 </table>
 
+### 3. How can products be categorised into price ranges to support product placement?
+
+
+### 4. Which products, within their respective departments and categories, are most popular?
+
+
+### 5. How can ordering behaviour and demographic information be used to categorise customers?
+
+
+### 6. How does ordering habits vary across customer profiles?
+
 
 ## Takeaways
 ### Successes
