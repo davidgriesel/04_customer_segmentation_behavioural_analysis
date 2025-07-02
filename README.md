@@ -29,20 +29,21 @@ This analysis uses publicly available data originally sourced from **Instacart**
 The Instacart Dataset was accessed on 7 September 2024.
 
 <!--## Deliverables
-- **Excel Report**
-- [**Detailled Case Study**](https://davidgriesel.com/online-grocery-store/)
-
-## Key Questions
-1. How does order volume fluctuate over time?
-2. How does average spending per product vary over time?
-3. How can products be categorised into price ranges to support product placement?
-4. Which products, within their respective departments and categories, are most popular?
-5. How can ordering behaviour and demographic information be used to categorise customers?
-6. How does ordering habits vary across customer profiles?
+- **Excel Report** -->
 
 ## Key Insights
+### 1. How does order volume fluctuate over time?
 
-## Key Recommendations
+<table>
+<tr>
+<td align="center" valign="top" width="100%">
+    <img src="visualisations/bar_top_films.png"" ><br>
+    <em>Table Annotation.</em>
+</td>
+</tr>
+</table>
+<br>
+
 
 ## Takeaways
 ### Successes
