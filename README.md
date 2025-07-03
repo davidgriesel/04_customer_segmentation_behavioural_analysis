@@ -63,7 +63,7 @@ This predictable behaviour provides opportunities to optimise staffing, inventor
     </tr>
     <tr>
         <td align="left" valign="top" width="50%">
-            <img src="visualisations/orders/3.5_orders_hodow.png" ><br>
+            <img src="visualisations/orders/3.3_orders_hodow.png" ><br>
             <em><strong>Consistent Daily Pattern:</strong> The daily cycle of a morning ramp-up, midday peak, and evening decline is consistent throughout the week. The main difference between days lies in volume, not timing.
             <p></p>
         </td>
