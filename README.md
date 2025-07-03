@@ -38,7 +38,7 @@ The Instacart Dataset was accessed on 7 September 2024.
     <tr>
         <td align="center" valign="top" width="50%">
             <img src="visualisations/orders/3.1_orders_dow.png" ><br>
-            <em>Annotation.</em>
+            <em>Order volumes are relatively stable from Monday to Friday, indicating consistent customer activity during the work week. A noticeable dip in activity occurs mid-week, with Wednesday registering the lowest order volume. A significant increase in order volume occurs over the weekend which peaks on Saturday, which is the busiest day of the week. Sunday's volume, while lower than Saturday's, remains substantially higher than any weekday.</em>
         </td>
         <td align="center" valign="top" width="50%">
           <img src="visualisations/orders/3.2_orders_hod.png" ><br>
@@ -47,11 +47,11 @@ The Instacart Dataset was accessed on 7 September 2024.
     </tr>
     <tr>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/orders/3.4_orders_hodow_heat.png" ><br>
+            <img src="visualisations/orders/3.5_orders_hodow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/orders/3.5_orders_hodow.png" ><br>
+            <img src="visualisations/orders/3.4_orders_hodow_heat.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
