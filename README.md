@@ -92,11 +92,11 @@ In contrast, spending on Fridays and Saturdays remains consistently high through
     </tr>
     <tr>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/spending/3.6_avg_price_todow.png" ><br>
+            <img src="visualisations/spending/3.5_avg_price_todow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/spending/3.5_avg_price_todow_heat.png" ><br>
+            <img src="visualisations/spending/3.6_avg_price_todow_heat.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
