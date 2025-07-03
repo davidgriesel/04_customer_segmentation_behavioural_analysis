@@ -64,13 +64,12 @@ This predictable behaviour provides opportunities to optimise staffing, inventor
     <tr>
         <td align="left" valign="top" width="50%">
             <img src="visualisations/orders/3.5_orders_hodow.png" ><br>
-            <em><strong>Consistent Daily Pattern:</strong> The daily cycle is consistent throughout the week with the primary differentiator between days being the overall volume, not the timing of the activity.</em>
+            <em><strong>Consistent Daily Pattern:</strong> The daily cycle of a morning ramp-up, midday peak, and evening decline is consistent throughout the week. The main difference between days lies in volume, not timing.
             <p></p>
-            <em><strong>Amplified Weekend Volume:</strong> Midday peaks are significantly more pronounced over the weekend, with Saturday reaching the highest volumes of the week. Sunday exhibits a similar but less consistent pattern that drops off sooner.</em>
         </td>
         <td align="left" valign="top" width="50%">
             <img src="visualisations/orders/3.4_orders_hodow_heat.png" ><br>
-            <em><strong>Unique Sunday Pattern:</strong> Unlike the other days which show a relatively flat midday peak, Sunday's activity is less consistent. It features high volumes around 9 am, followed by a slight but noticeable drop to a lower, yet still elevated, plateau until approximately 4 pm.</em>
+            <em><strong>Sunday Midday Drop:</strong> While Sunday generally follows the same daily pattern, its peak is less stable — a strong surge between 9 and 11 am drops to a lower, though still elevated, level for the rest of the peak window.</em>
         </td>
     </tr>
 </table>
@@ -90,11 +89,11 @@ This predictable behaviour provides opportunities to optimise staffing, inventor
     </tr>
     <tr>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/spending/3.5_avg_price_todow_heat.png" ><br>
+            <img src="visualisations/spending/3.6_avg_price_todow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/spending/3.6_avg_price_todow.png" ><br>
+            <img src="visualisations/spending/3.5_avg_price_todow_heat.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
