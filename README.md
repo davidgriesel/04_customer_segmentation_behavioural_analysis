@@ -1,5 +1,4 @@
 # Customer Segmentation & Behavioural Analysis
-*This project was completed as part of the [CareerFoundry Data Analytics Programme](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
 ## Overview
 An online grocery store that engages with customers through a mobile app is looking to refine its marketing strategy using data-driven insights. This project uses Python to analyse demographic and transactional data, creating customer segments and spending profiles that inform targeted product placement and personalised marketing strategies.
@@ -16,7 +15,7 @@ An online grocery store that engages with customers through a mobile app is look
 - **Communication** - Visualisation | Reporting
 
 ## Data
-This analysis uses publicly available data originally sourced from **Instacart** via **Kaggle**. The links as well as an additional customers dataset was provided by **CareerFoundry** as part of their Data Analytics Course.
+This analysis uses publicly available data originally sourced from **Instacart** via **Kaggle**.
 
 - [**Customers**](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) - Customer ID, Name, Surname, Gender, State, Age, Date Joined, Dependants, Family Status, and Income
 - [**Dataset**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
