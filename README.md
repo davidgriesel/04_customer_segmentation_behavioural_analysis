@@ -1,4 +1,4 @@
-# Customer Segmentation & Behavioural Analysis
+# Customer Segmentation Analysis
 
 ## Overview
 An online grocery store that engages with customers through a mobile app is looking to refine its marketing strategy using data-driven insights. This project uses Python to analyse demographic and transactional data, creating customer segments and spending profiles that inform targeted product placement and personalised marketing strategies.
