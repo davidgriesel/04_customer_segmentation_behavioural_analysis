@@ -41,7 +41,7 @@ This predictable behaviour provides opportunities to optimise staffing, inventor
 <table>
     <tr>
         <td align="left" valign="top" width="50%">
-            <img src="visualisations/orders/3.1_orders_dow.png" ><br>
+            <img src="images/orders/3.1_orders_dow.png" ><br>
             <em> <strong>Weekday Stability:</strong> Order volumes are relatively stable from Monday to Friday.</em>
             <p></p>
             <em> <strong>Mid-Week Dip:</strong> A noticeable dip in activity occurs mid-week, with Wednesday registering the lowest order volume.</em>
@@ -49,7 +49,7 @@ This predictable behaviour provides opportunities to optimise staffing, inventor
             <em> <strong>Weekend Surge:</strong> A significant increase in order volume occurs over the weekend, which peaks on Saturday.</em>
         </td>
         <td align="left" valign="top" width="50%">
-            <img src="visualisations/orders/3.2_orders_hod.png" ><br>
+            <img src="images/orders/3.2_orders_hod.png" ><br>
             <em><strong>Overnight Lull:</strong> Order activity is minimal during the early morning hours from midnight to 6 am.</em>
             <p></p>
             <em><strong>Morning Ramp-Up:</strong> A sharp surge in orders begins at 6 am, with activity rapidly increasing until 9 am.</em>
@@ -61,12 +61,12 @@ This predictable behaviour provides opportunities to optimise staffing, inventor
     </tr>
     <tr>
         <td align="left" valign="top" width="50%">
-            <img src="visualisations/orders/3.3_orders_hodow.png" ><br>
+            <img src="images/orders/3.3_orders_hodow.png" ><br>
             <em><strong>Consistent Daily Pattern:</strong> The daily cycle of a morning ramp-up, midday peak, and evening decline is consistent throughout the week. The main difference between days lies in volume, not timing.
             <p></p>
         </td>
         <td align="left" valign="top" width="50%">
-            <img src="visualisations/orders/3.4_orders_hodow_heat.png" ><br>
+            <img src="images/orders/3.4_orders_hodow_heat.png" ><br>
             <em><strong>Sunday Midday Drop:</strong> While Sunday generally follows the same daily pattern, its peak is less stable — a strong surge between 9 and 11 am drops to a lower, though still elevated, level for the rest of the peak window.</em>
         </td>
     </tr>
@@ -81,21 +81,21 @@ In contrast, spending on Fridays and Saturdays remains consistently high through
 <table>
     <tr>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/spending/3.1_avg_price_dow.png" ><br>
+            <img src="images/spending/3.1_avg_price_dow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/spending/3.2_avg_price_hod.png" ><br>
+            <img src="images/spending/3.2_avg_price_hod.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
     <tr>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/spending/3.5_avg_price_todow.png" ><br>
+            <img src="images/spending/3.5_avg_price_todow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/spending/3.6_avg_price_todow_heat.png" ><br>
+            <img src="images/spending/3.6_avg_price_todow_heat.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
@@ -115,21 +115,21 @@ To support optimised product placement that aligns with spending habits, premi
 <table>
     <tr>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/prices/3.1_price_dist_inv.png" ><br>
+            <img src="images/prices/3.1_price_dist_inv.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/prices/3.1_price_dist_inv_box.png" ><br>
+            <img src="images/prices/3.1_price_dist_inv_box.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
     <tr>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/prices/3.2_price_dist_sales.png" ><br>
+            <img src="images/prices/3.2_price_dist_sales.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/prices/3.2_price_dist_sales_box.png" ><br>
+            <img src="images/prices/3.2_price_dist_sales_box.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
@@ -148,11 +148,11 @@ Analysis revealed that perishables are the most frequently ordered category,
 <table>
     <tr>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/products/3.1_departments.png" ><br>
+            <img src="images/products/3.1_departments.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/products/3.2_categories.png" ><br>
+            <img src="images/products/3.2_categories.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
@@ -169,21 +169,21 @@ Analysis revealed that most customers are adults or middle aged and have a fami
 <table>
     <tr>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/profile/3.5.1_region_profile.png" ><br>
+            <img src="images/profile/3.5.1_region_profile.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/profile/3.6.1_age_profile.png" ><br>
+            <img src="images/profile/3.6.1_age_profile.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
     <tr>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/profile/3.7.1_income_profile.png" ><br>
+            <img src="images/profile/3.7.1_income_profile.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/profile/3.8.1_family_profile.png" ><br>
+            <img src="images/profile/3.8.1_family_profile.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
@@ -208,7 +208,7 @@ Bar chart analysis showed that most customers fall into the low activity and ra
 <table>
     <tr>
         <td align="center" valign="top" width="50%">
-            <img src="visualisations/profile/3.4.1_loyalty_profile.png" ><br>
+            <img src="images/profile/3.4.1_loyalty_profile.png" ><br>
         </td>
         <td align="center" valign="top" width="50%">
             <em>Annotation.</em>
@@ -228,29 +228,29 @@ Deviations were also observed in product preferences. Most notably, high loyalt
 <table>
     <tr>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/orders/4.4.1_orders_loyalty_dow.png" ><br>
+            <img src="images/orders/4.4.1_orders_loyalty_dow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/spending/4.4.2_avg_price_loyalty_dow.png" ><br>
+            <img src="images/spending/4.4.2_avg_price_loyalty_dow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/products/4.4.1_departments_loyalty.png" ><br>
+            <img src="images/products/4.4.1_departments_loyalty.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
     <tr>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/orders/4.4.2_orders_loyalty_hod.png" ><br>
+            <img src="images/orders/4.4.2_orders_loyalty_hod.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/spending/4.4.3_avg_price_loyalty_hod.png" ><br>
+            <img src="images/spending/4.4.3_avg_price_loyalty_hod.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/products/4.4.2_categories_loyalty.png" ><br>
+            <img src="images/products/4.4.2_categories_loyalty.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
@@ -263,29 +263,29 @@ Examining ordering habits across regions revealed that the total number of orde
 <table>
     <tr>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/orders/4.5.1_orders_region_dow.png" ><br>
+            <img src="images/orders/4.5.1_orders_region_dow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/spending/4.5.2_avg_price_region_dow.png" ><br>
+            <img src="images/spending/4.5.2_avg_price_region_dow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/products/4.5.1_departments_region.png" ><br>
+            <img src="images/products/4.5.1_departments_region.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
     <tr>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/orders/4.5.2_orders_region_hod.png" ><br>
+            <img src="images/orders/4.5.2_orders_region_hod.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/spending/4.5.3_avg_price_region_hod.png" ><br>
+            <img src="images/spending/4.5.3_avg_price_region_hod.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/products/4.5.2_categories_region.png" ><br>
+            <img src="images/products/4.5.2_categories_region.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
@@ -300,29 +300,29 @@ Examining ordering habits across age groups revealed that the total number of or
 <table>
     <tr>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/orders/4.6.1_orders_age_dow.png" ><br>
+            <img src="images/orders/4.6.1_orders_age_dow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/spending/4.6.2_avg_price_age_dow.png" ><br>
+            <img src="images/spending/4.6.2_avg_price_age_dow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/products/4.6.1_departments_age.png" ><br>
+            <img src="images/products/4.6.1_departments_age.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
     <tr>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/orders/4.6.2_orders_age_hod.png" ><br>
+            <img src="images/orders/4.6.2_orders_age_hod.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/spending/4.6.3_avg_price_age_hod.png" ><br>
+            <img src="images/spending/4.6.3_avg_price_age_hod.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/products/4.6.2_categories_age.png" ><br>
+            <img src="images/products/4.6.2_categories_age.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
@@ -340,29 +340,29 @@ Deviations were also observed in terms of product preferences, with low income c
 <table>
     <tr>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/orders/4.7.1_orders_income_dow.png" ><br>
+            <img src="images/orders/4.7.1_orders_income_dow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/spending/4.7.2_avg_price_income_dow.png" ><br>
+            <img src="images/spending/4.7.2_avg_price_income_dow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/products/4.7.1_departments_income.png" ><br>
+            <img src="images/products/4.7.1_departments_income.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
     <tr>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/orders/4.7.2_orders_income_hod.png" ><br>
+            <img src="images/orders/4.7.2_orders_income_hod.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/spending/4.7.3_avg_price_income_hod.png" ><br>
+            <img src="images/spending/4.7.3_avg_price_income_hod.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/products/4.7.2_categories_income.png" ><br>
+            <img src="images/products/4.7.2_categories_income.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
@@ -376,29 +376,29 @@ Examining ordering habits across customer family groups revealed that the total 
 <table>
     <tr>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/orders/4.8.1_orders_family_dow.png" ><br>
+            <img src="images/orders/4.8.1_orders_family_dow.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/spending/4.8.2_avg_price_family_dow.png" ><br>
+            <img src="images/spending/4.8.2_avg_price_family_dow.png" ><br>
           <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/products/4.8.1_departments_family.png" ><br>
+            <img src="images/products/4.8.1_departments_family.png" ><br>
             <em>Annotation.</em>
         </td>
     </tr>
     <tr>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/orders/4.8.2_orders_family_hod.png" ><br>
+            <img src="images/orders/4.8.2_orders_family_hod.png" ><br>
           <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/spending/4.8.3_avg_price_family_hod.png" ><br>
+            <img src="images/spending/4.8.3_avg_price_family_hod.png" ><br>
             <em>Annotation.</em>
         </td>
         <td align="center" valign="top" width="33%">
-            <img src="visualisations/products/4.8.2_categories_family.png" ><br>
+            <img src="images/products/4.8.2_categories_family.png" ><br>
           <em>Annotation.</em>
         </td>
     </tr>
